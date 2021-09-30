@@ -12,3 +12,12 @@
     position: relative;
     top: 150px;
 }
+#cactus {
+    width: 20px;
+    height: 40px;
+    background-image: url(img/cactus.png);
+    background-size: 20px 40px;
+    position: relative;
+    top: 150px;
+    left: 580px;
+}
